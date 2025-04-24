@@ -1,7 +1,7 @@
 # Simple house website using HTML5
 
 ## Information
-[NTI X Hub AI] Hub GenAI for Future Founders: Week 1 - Exercise 1.1
+[NTI X Hub AI] Hub GenAI for Future Founders: Week 1 - Exercise 1.2
 
 Name: **Hoang Tran Nhat Minh**
 
